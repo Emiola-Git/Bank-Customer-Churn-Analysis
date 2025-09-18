@@ -17,8 +17,8 @@ Number & Percentage of Retained Customers
 
 Number & Percentage of Churned Customers
 
-<img width="1289" height="859" alt="Image" src="https://github.com/user-attachments/assets/7e5b29f5-7b6d-44a3-bcaf-1fd6f87596e0" />
+<img width="1266" height="843" alt="Image" src="https://github.com/user-attachments/assets/ed556acd-e0b8-4640-bdca-e4a31a86de87" />
 
-<img width="1295" height="857" alt="Image" src="https://github.com/user-attachments/assets/427e9fec-cd99-4f44-838d-1d3a8e2b32c7" />
+<img width="1271" height="846" alt="Image" src="https://github.com/user-attachments/assets/5338a46c-abbb-4ffa-8518-595a978921b4" />
 
-<img width="1211" height="811" alt="Image" src="https://github.com/user-attachments/assets/6eff4681-1c21-4dff-9547-c3845de9fdef" />
+<img width="1189" height="792" alt="Image" src="https://github.com/user-attachments/assets/cb9caf73-6bad-47b3-bca6-cc9875eb9781" />
